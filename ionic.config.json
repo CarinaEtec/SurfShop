@@ -1,0 +1,7 @@
+{
+  "name": "SURFSHOP",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
